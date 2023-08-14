@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white    ;
+}
+
+.titlebox {
+    text-align: center;
+    padding: 1vw;
+    margin: 1vw;
+}
+
+.text {
+    padding: 1vw;
+    margin: auto;
+    font-size: 1vw;
+    width: 50%;
+    text-align: justify;
+}
+
+.image {
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1vw;
+    border: 0.3vw solid white;
+}
+
+.image img {
+    align-self: center;
+    width: 47vw;
+    height: auto;
+}
+
+caption {
+    margin: 0.3vw;
+}
+
+.sources {
+    padding: 1vw;
+    margin: auto;
+    font-size: 1vw;
+    width: 50%;
+    text-align: center;
+}
